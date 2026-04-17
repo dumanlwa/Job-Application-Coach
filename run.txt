@@ -1,0 +1,16 @@
+Mock-mode:
+
+$env:COACH_MOCK_RUN_ID="20260413T162828228903"
+$env:COACH_MOCK_DATA_DIR="."
+python app.py
+
+____________________________________________________________
+
+Original-mode:
+
+Remove-Item Env:COACH_MOCK_RUN_ID -ErrorAction SilentlyContinue
+Remove-Item Env:COACH_MOCK_DATA_DIR -ErrorAction SilentlyContinue
+python app.py
+
+
+agent_20260413T162828228903_scoring_001.json

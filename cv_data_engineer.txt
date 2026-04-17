@@ -1,0 +1,34 @@
+[Samira Patel] | +44 7911 234567 | samira.patel@example.com | https://www.linkedin.com/in/samira-patel | https://samirapatel.dev
+
+CV — Junior Data Engineer
+
+Education
+University of Manchester Expected July 2025
+BSc in Computer Science (Data Track) — Grade: 2:1 UK
+Relevant Coursework: Data Structures, Databases, Operating Systems, Distributed Systems, Software Engineering
+
+Experience
+Amazon Web Services (AWS) Jul 2025 – Sep 2025
+Data Engineering Intern Remote
+- Implemented simple ETL scripts in Python to move CSV exports into a PostgreSQL database.
+- Containerized a small ingestion service with Docker for local testing and deployment.
+- Monitored daily ingestion jobs and handled basic error logging and retries.
+
+Ocado Technology Jan 2024 – Apr 2024
+Software Intern Manchester, UK
+- Helped maintain internal APIs (Flask) and wrote unit tests for endpoints used by data consumers.
+- Assisted in setting up basic CI pipeline (GitHub Actions) to run linting and tests.
+
+Projects
+Batch ETL Pipeline | Python, PostgreSQL, Docker May 2025
+- Built a prototype ETL job that loaded monthly CSVs into normalized tables and implemented simple data checks (row counts, null thresholds).
+- Added incremental load logic and basic logging to speed up runs and ease troubleshooting.
+
+Log Aggregator Service | Flask, Docker, SQLite Dec 2024
+- Created a lightweight log ingestion API and local storage for analysis; used for debugging prototype features.
+- Implemented simple parsers and retention policies to aggregate error-level logs for team dashboards.
+
+Skills
+Languages: Python, SQL, Bash
+Tools & Platforms: Docker, PostgreSQL, Git, GitHub Actions
+Concepts: ETL patterns, basic CI, logging and monitoring

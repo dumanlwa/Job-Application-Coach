@@ -1,0 +1,35 @@
+[Daniel Chen] | +852 9123 4567 | daniel.chen@example.com | https://www.linkedin.com/in/daniel-chen-ml | https://danielchen.ai
+
+CV — Junior Data Scientist
+
+Education
+City University of Hong Kong Expected June 2026
+Bachelor of Science in Data Science — CGPA: 3.35/4.3 Hong Kong
+Relevant Coursework: Machine Learning, Data Mining, Statistics, Database Systems, Python Programming, Linear Algebra
+
+Experience
+Accenture Applied Intelligence June 2025 – Aug 2025
+Data Science Intern Hong Kong
+- Cleaned and preprocessed sales transaction datasets (50k+ rows) using Python and Pandas to support weekly reports.
+- Built baseline classification and regression models (logistic regression, random forest) to predict customer churn; achieved ~68% accuracy on a small validation set.
+- Created exploratory visualizations in Matplotlib/Seaborn to present insights to product managers.
+
+HSBC Jan 2024 – Apr 2024
+Data Analyst Intern Hong Kong
+- Performed SQL queries to extract customer segments for targeted email campaigns.
+- Automated data cleaning steps in Excel and Python, reducing manual prep time by ~30%.
+- Assisted senior analysts in preparing PowerPoint summaries for stakeholder meetings.
+
+Projects
+Customer Churn Prediction | Python, Scikit-learn, Pandas Mar 2025
+- Prepared dataset from public retail transactions, engineered basic features (recency, frequency, monetary).
+- Evaluated models with cross-validation; selected a random forest model with moderately better recall.
+
+Retail Sales Dashboard | SQL, Python, Tableau Nov 2024
+- Built a Tableau dashboard to track monthly sales by region and product category; supported a mock marketing campaign analysis.
+- Implemented interactive filters and monthly trend visualizations to help simulate campaign scenarios and highlight underperforming categories.
+
+Skills
+Programming: Python, SQL, R (basic)
+Libraries & Tools: Pandas, Scikit-learn, Matplotlib, Seaborn, Tableau, Git
+Platforms: MySQL, Excel

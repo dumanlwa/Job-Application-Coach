@@ -1,0 +1,34 @@
+[Alex Morgan] | +44 7700 900123 | alex.morgan@example.com | https://www.linkedin.com/in/alex-morgan-analytics | https://alexmorgan.dev
+
+CV — Junior Data Analyst
+
+Education
+Hong Kong Polytechnic University Expected June 2026
+Bachelor of Science in Statistics — CGPA: 3.28/4.0 Hong Kong
+Relevant Coursework: Statistical Inference, Data Visualization, Regression Analysis, Database Systems, R Programming
+
+Experience
+MarketPulse Ltd. May 2025 – Aug 2025
+Data Analyst Intern Hong Kong
+- Extracted and cleaned survey response data; performed descriptive statistics and trend analysis.
+- Produced weekly dashboards in Power BI for marketing team; improved visibility into campaign KPIs.
+- Wrote SQL reports to pull cohort-level metrics for A/B test summaries.
+
+RSM Hong Kong Jun 2024 – Sep 2024
+Junior Analyst Hong Kong
+- Reconciled transaction records and assisted with monthly report generation using Excel and VBA macros.
+- Implemented basic data validation scripts in Python to catch format inconsistencies.
+
+Projects
+Survey Insight Tool | R, Shiny, ggplot2 Apr 2025
+- Built a Shiny app to visualize survey responses with filters for demographics; enabled managers to explore responses interactively.
+- Added export and summary-report features; calculated key statistics (means, medians) for demographic groups to inform campaign adjustments.
+
+Sales KPI Tracker | SQL, Excel Feb 2025
+- Developed automated Excel templates connected to SQL extracts to populate weekly KPI reports.
+- Created validation rules and conditional formatting to flag anomalies, reducing reporting errors.
+
+Skills
+Tools: Excel (advanced), Power BI, SQL
+Languages: R, Python (pandas basics)
+Other: Data cleaning, basic statistical testing, data visualization

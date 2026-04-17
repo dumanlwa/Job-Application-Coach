@@ -1,0 +1,88 @@
+1) Data Analyst
+
+CV: cv_data_analyst.txt
+
+Job Description: "
+    About the job
+    Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+
+    We are looking for a skilled Data Analyst to join our Financial Products Business team, focusing on derivatives products including Futures trading and Options trading. You will play a key role in building and maintaining data dashboards and intermediate data tables to track product performance and support business decisions.
+
+    Responsibilities:
+
+    Develop and maintain Datawind / Sensor Dashboards for derivatives products (Futures, Options)
+    Build and manage intermediate data tables to support dashboard analytics and reporting
+    Monitor and analyze product performance metrics to provide actionable insights
+    Collaborate with product teams to conduct ad-hoc product analysis beyond dashboard scope when needed
+    Ensure data accuracy, consistency, and timely delivery of reports
+
+    Requirements:
+
+    Proven experience as a Data Analyst, preferably in financial products or derivatives trading
+    Strong skills in data visualization tools and dashboard development.
+    Proficient in SQL and data engineering for building intermediate data tables
+    Familiarity with derivatives products such as Futures and Options.
+    Analytical mindset with strong problem-solving skills
+    Ability to work collaboratively in a fast-paced environment
+    "
+
+ATS Score before: "myperfectresume: 52", 'Enhancv: 88'
+ATS Score after: "myperfectresume: 73", 'Enhancv: 97'
+
+____________________________________________________________________________________________________________
+
+2) Data Engineer
+
+CV: cv_data_engineer.txt
+
+Job Description: "
+    About the job
+    Great opportunity to join a friendly and flexible global logistics company in their IT Team!
+
+    Your new company 
+    
+    My client is a well‑established supply chain solutions provider with a long-standing presence in the Hong Kong market.
+    
+    Your new role 
+    
+    Plan, execute, and sustain the organization's data platforms and related solutions.
+    Architect, develop, and automate modern data pipelines and real‑time data streams.
+    Create and manage data models and schemas that support seamless data integration and analytics.
+    Monitor ETL/ELT performance, understand data needs and convert them into technical specifications.
+    What you'll need to succeed 
+    
+    Bachelor's degree in Computer Science, Information Technology, or a related field.
+    Strong proficiency in SQL.
+    Hands-on experience with Azure Databricks or Synapse.
+    Practical experience using programming languages for data engineering.
+    Experience designing and deploying data applications on cloud platforms.
+    Energetic, adaptable, organised, proactive, and comfortable working in ambiguous environments.
+    "
+
+ATS Score before: "myperfectresume: 46", 'Enhancv: 73'
+ATS Score after: "myperfectresume: 83", 'Enhancv: 82'
+
+____________________________________________________________________________________________________________
+
+3) Data Scientist
+
+CV: cv_data_scientist.txt
+
+Job Description: "
+    A leading multi-strategy hedge fund is hiring a Data Scientist to join its Data Science & AI group, focused on the Energy & Industrials sector. This role sits close to the investment process, partnering directly with portfolio managers to design data-driven research and develop models that support investment decisions and uncover new sources of alpha. 
+
+    What this role offers:
+
+    Work directly with portfolio managers and investment teams to design research that addresses key investment debates in the energy and commodities space 
+    Apply machine learning, LLMs, graph analytics, and Bayesian methods to generate predictive insights and improve investment outcomes 
+    Build scalable data products and analytical tools that empower investment teams and enhance the firm’s data capabilities 
+    Utilize a modern data stack including Python, SQL, Databricks/Spark, Snowflake, Jupyter, and visualization frameworks such as Plotly, Tableau, or Dash 
+    Work within a collaborative team of data scientists, engineers, researchers, and investors, contributing to sector-level data strategy and innovation 
+    Exposure to alternative datasets such as geospatial, weather, logistics, and remote sensing data to develop differentiated insights 
+
+
+    This role is ideal for data scientists with strong statistical and machine learning foundations, experience working with complex datasets, and a desire to work closely with investment professionals in a fast-moving research environment.
+    "
+
+ATS Score before: "myperfectresume: 42", 'Enhancv: 89'
+ATS Score after: "myperfectresume: 74", 'Enhancv: 94'

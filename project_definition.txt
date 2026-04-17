@@ -1,0 +1,31 @@
+Selected Idea: Job Application Coach Agent
+One-line goal: Help users tailor resumes and cover letters to a specific job posting.
+
+Here is a clean version you can use directly in your proposal/report.
+
+Project Definition
+Problem: Many applicants submit generic resumes that do not match job requirements.
+Solution: An agent-based system that analyzes a job description and gives tailored resume/cover-letter improvements.
+Target users: Students and early-career job seekers.
+Agent Design
+Job Analyzer Agent
+Extracts required skills, tools, qualifications, and keywords from job descriptions.
+Resume Matcher Agent
+Compares resume content with extracted requirements from Job Analyzer Agent.
+Finds missing skills/keywords and weak sections.
+Rewrite Coach Agent
+Suggests improved bullet points and role-specific wording.
+Keeps user claims factual (no fake experience).
+Cover Letter Agent
+Generates a personalized cover-letter draft aligned to the role.
+Scoring & Feedback Agent
+Produces before/after scores and final improvement summary.
+
+Demo Webpage (simple and effective)
+Input area: Job description + resume text
+Button: Analyze
+Output:
+Missing keywords
+Suggested bullet rewrites
+Tailored cover letter draft
+Before/after score cards

@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / secrets
+.env
+.env.*
+
+# Local databases
+*.db
+
+# Local run artifacts (may contain PII/job descriptions/model outputs)
+run_*.json
+agent_*.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Test/coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/

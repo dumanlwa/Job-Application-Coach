@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Application Coach</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css', v=asset_version) }}" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">Job Application Coach</p>
+        <h1>Tailor Your CV Pipeline In One Click</h1>
+        <p class="hero-copy">
+          Paste a job description and your CV text. The backend will run the full
+          agent chain and return job analysis, resume matching insights, a fully
+          updated CV, a tailored cover letter, and scoring feedback.
+        </p>
+      </header>
+
+      <section class="panel input-panel">
+        <h2>Inputs</h2>
+        <form id="analysis-form">
+          <label for="job_description">Job Description</label>
+          <textarea id="job_description" name="job_description" required placeholder="Paste full job posting..."></textarea>
+
+          <label for="cv_text">CV Text</label>
+          <textarea id="cv_text" name="cv_text" required placeholder="Paste your full CV text..."></textarea>
+
+          <label for="target_role">Target Role (optional)</label>
+          <input id="target_role" name="target_role" type="text" placeholder="data scientist" />
+
+          <button id="analyze-btn" type="submit">Run Full Analysis</button>
+          <p id="status" aria-live="polite"></p>
+        </form>
+      </section>
+
+      <section class="results-grid" id="results-grid" hidden>
+        <article class="panel">
+          <h3>Job Analysis</h3>
+          <div class="output-body" id="job_analysis"></div>
+        </article>
+
+        <article class="panel">
+          <h3>Resume Match</h3>
+          <div class="output-body" id="resume_match"></div>
+        </article>
+
+        <article class="panel full-width">
+          <h3>Updated CV</h3>
+          <div class="output-body" id="updated_cv"></div>
+        </article>
+
+        <article class="panel">
+          <h3>Cover Letter</h3>
+          <div class="output-body" id="cover_letter"></div>
+        </article>
+
+        <article class="panel">
+          <h3>Scoring</h3>
+          <div class="output-body" id="scoring"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js', v=asset_version) }}"></script>
+  </body>
+</html>
